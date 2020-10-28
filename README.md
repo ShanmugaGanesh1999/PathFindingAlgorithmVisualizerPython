@@ -1,5 +1,6 @@
 # PathFindingAlgorithmVisualizerPyhton
-Using A* Path Finding Algorithm (visualizer), we can find the shortest path from Source to Destination and also in Optimal way. In this Project, I have implemented this algorithm with the help of python and for visualization part with the external python module/library namely "pygame", this module helps the user to interact with the program and in a fun way of learning. some functionality are: " c " - clear the board. " space " - space bar is used to start the program. " left click " - mouse left click will set the position respectively. " right click " - mouse right click will revert the position which is already set.
+Using A* Path Finding Algorithm (visualizer), we can find the shortest path from Source to Destination and also in Optimal way. In this Project, I have implemented this algorithm with the help of python and for visualization part with the external python module/library namely "pygame", this module helps the user to interact with the program and in a fun way of learning. 
+some functionality are: " c " - clear the board. " space " - space bar is used to start the program. " left click " - mouse left click will set the position respectively. " right click " - mouse right click will revert the position which is already set.
 
 Read this Blog Before Proceedng  https://medium.com/omarelgabrys-blog/path-finding-algorithms-f65a8902eb40
 
